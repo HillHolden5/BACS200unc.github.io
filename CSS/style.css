@@ -8,4 +8,6 @@ td a { color: red;}
 #testing {color: green;}
 .rowheader {color: purple;}
 a { color: black;}
-:hover { color: orange;}
+td:hover { color: orange;}
+a:hover { color: orange;}
+th:hover { color: orange;}
