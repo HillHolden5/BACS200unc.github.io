@@ -1,2 +1,3 @@
-:root {--uncblue: rgb
+:root {--uncblue: rgb(1,45,91); --uncgold: rgb(254,189,54); --uncgray: rgb(235,235,235);}
 body {background-color: blue;}
+P {font-size: 12px; font-family: "Arial"; text-align: left;} 
