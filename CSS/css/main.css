@@ -1,6 +1,8 @@
 img { height: 50px;}
 background-color { RGB: 199, 160, 44;}
 H1 { Color: White; Size: 12 PX; Font: Times New Roman;}
+Title { Color: Black; Size: 15 px; Font: Arial } 
+p { Color: Black; Size: 11px; Font: Times New Roman;}
 table { border: 4 px solid black;
       border-collapse: collapse;
       padding-left: 2px;
