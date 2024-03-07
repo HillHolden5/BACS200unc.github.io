@@ -1,0 +1,11 @@
+img { height: 50px;}
+background-color { RGB: 199, 160, 44;}
+H1 { Color: White; Size: 12 PX; Font: Times New Roman;}
+table { border: 4 px solid black;
+      border-collapse: collapse;
+      padding-left: 2px;
+      padding-right: 2px;
+      padding-top: 2px;
+      padding-bottom: 2px;
+      text-align: center;} 
+th { border: 2 px solid red;}
