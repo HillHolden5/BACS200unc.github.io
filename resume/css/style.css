@@ -1,3 +1,5 @@
+@font-face {font-family: Dune; src: url('fonts/Quantum.ttf');}
+@font-face {font-family: Arvo; src: url("fonts/Arvo-Fegular.ttf");}
 h1 {font-family: Dune;}
 img { size: 40px;}
 P {Color: Black; Size: 11px; Font: Times New Roman;}
