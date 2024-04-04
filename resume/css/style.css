@@ -1,8 +1,8 @@
-@font-face {font-family: Dune; src: url('fonts/Quantum.ttf');}
-@font-face {font-family: Arvo; src: url("fonts/Arvo-Fegular.ttf");}
-h1 {font-family: Dune;}
+@font-face {font-family: TacOne; src: url("fonts/TacOne-Regular.ttf");}
+@font-face {font-family: Scribble; src: url("fonts/RubikScribble-Regular.ttf);}
+h1 {font-family: TacOne;}
 img { size: 40px;}
 P {Color: Black; Size: 11px; Font: Times New Roman;}
-ul {Color: Red; Size: 12px; font-family: Arvo;}
+ul {Color: Red; Size: 12px; font-family: Scribble;}
 h2 {Color: Orange; Size: 11px Font: Times New Roman;}
 body {background-color: RGB(45, 188, 219)} 
