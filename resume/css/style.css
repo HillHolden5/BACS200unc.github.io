@@ -1,5 +1,5 @@
-@font-face {font-family: TacOne; src: url("resume/fonts/TacOne-Regular.ttf");}
-@font-face {font-family: Scribble; src: url("resume/fonts/RubikScribble-Regular.ttf");}
+@font-face {font-family: TacOne; src: url("resume/fonts/TacOne-Regular.ttf");
+            font-family: Scribble; src: url("resume/fonts/RubikScribble-Regular.ttf")}
 h1 {Color: Pink; font-family: TacOne;}
 img {size: 40px;}
 P {Color: Black; Size: 11px; Font: Times New Roman;}
