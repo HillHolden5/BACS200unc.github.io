@@ -1,10 +1,10 @@
 @font-face {font-family: Dune; src: url('fonts/Quantum.ttf');}
 body {background-color: RGB(199, 160, 44);} 
 h1 {font-family: Dune;}
-h3 {Color: Black; Size: 6px; Font: Arial;} 
-h2 {Color: Red; Size: 6.5Px; Font: Calibri;}  
-h4 {Color: Pink; size: 6px; Font: Silom;}
-p {Color: Black; Size: 5.5px; Font: Times New Roman;}
+h3 {Color: Black; Size: 3px; Font: Arial;} 
+h2 {Color: Red; Size: 3Px; Font: Calibri;}  
+h4 {Color: Pink; size: 3px; Font: Silom;}
+p {Color: Black; Size: 2px; Font: Times New Roman;}
 table {border: 2.5px solid black;
       border-collapse: collapse;
       padding-left: 1px;
